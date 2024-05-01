@@ -1,5 +1,5 @@
 def Hello(name):
-    print(f"Hello {name}")
+    print(f"Hi {name} ")
 
 
 Hello("Dzhakonda")
